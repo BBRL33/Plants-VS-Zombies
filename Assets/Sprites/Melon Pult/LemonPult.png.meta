@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 9560a056bd8454945826730bb5f2ae4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6374736178614640972
+    second: LemonPult_0
+  - first:
+      213: 382856828507525459
+    second: LemonPult_1
+  - first:
+      213: 5154315988955029361
+    second: LemonPult_2
+  - first:
+      213: 3391223980391423411
+    second: LemonPult_3
+  - first:
+      213: 4691344705522379864
+    second: LemonPult_4
+  - first:
+      213: -8135773793517610275
+    second: LemonPult_5
+  - first:
+      213: 3638889536171790573
+    second: LemonPult_6
+  - first:
+      213: 8451452961045837512
+    second: LemonPult_7
+  - first:
+      213: -3447522689869545247
+    second: LemonPult_8
+  - first:
+      213: -1471244996848895882
+    second: LemonPult_9
+  - first:
+      213: -7745129429296234957
+    second: LemonPult_10
+  - first:
+      213: 3136926776266121668
+    second: LemonPult_11
+  - first:
+      213: 984287682739983855
+    second: LemonPult_12
+  - first:
+      213: 8187047012284838960
+    second: LemonPult_13
+  - first:
+      213: 6020867310947768575
+    second: LemonPult_14
+  - first:
+      213: -2897477388463909543
+    second: LemonPult_15
+  - first:
+      213: 6903288264094145570
+    second: LemonPult_16
+  - first:
+      213: -1449030213850371485
+    second: LemonPult_17
+  - first:
+      213: 8049914511064706390
+    second: LemonPult_18
+  - first:
+      213: 8840524775988321617
+    second: LemonPult_19
+  - first:
+      213: -3148350407274166018
+    second: LemonPult_20
+  - first:
+      213: 6849387155184340866
+    second: LemonPult_21
+  - first:
+      213: -8826512684686145968
+    second: LemonPult_22
+  - first:
+      213: 3042059893706840028
+    second: LemonPult_23
+  - first:
+      213: -2206118927241315447
+    second: LemonPult_24
+  - first:
+      213: -8418892203199624981
+    second: LemonPult_25
+  - first:
+      213: -301187723957272274
+    second: LemonPult_26
+  - first:
+      213: 4539728641470657436
+    second: LemonPult_27
+  - first:
+      213: 3521033780374929125
+    second: LemonPult_28
+  - first:
+      213: 2885632328519436547
+    second: LemonPult_29
+  - first:
+      213: 4102364304532170630
+    second: LemonPult_30
+  - first:
+      213: -9148043800619359949
+    second: LemonPult_31
+  - first:
+      213: 4196617791674760023
+    second: LemonPult_32
+  - first:
+      213: 4916086069813864990
+    second: LemonPult_33
+  - first:
+      213: 2040775427543528705
+    second: LemonPult_34
+  - first:
+      213: 642960490592572952
+    second: LemonPult_35
+  - first:
+      213: -4881708564726636658
+    second: LemonPult_36
+  - first:
+      213: -5988377932806211623
+    second: LemonPult_37
+  - first:
+      213: 1703793457251616110
+    second: LemonPult_38
+  - first:
+      213: 2088459283633562417
+    second: LemonPult_39
+  - first:
+      213: 1315842795099995460
+    second: LemonPult_40
+  - first:
+      213: 8712933216583516052
+    second: LemonPult_41
+  - first:
+      213: -3835092255076666434
+    second: LemonPult_42
+  - first:
+      213: 2263323251819790804
+    second: LemonPult_43
+  - first:
+      213: 7100471029700205243
+    second: LemonPult_44
+  - first:
+      213: 3451757569168350473
+    second: LemonPult_45
+  - first:
+      213: -5135739418572567650
+    second: LemonPult_46
+  - first:
+      213: 6574476046767981577
+    second: LemonPult_47
+  - first:
+      213: 7049175845550777446
+    second: LemonPult_48
+  - first:
+      213: 6495353215974312026
+    second: LemonPult_49
+  - first:
+      213: -9079755166032711366
+    second: LemonPult_50
+  - first:
+      213: -6808500305155796260
+    second: LemonPult_51
+  - first:
+      213: 5884437475639463257
+    second: LemonPult_52
+  - first:
+      213: -6459358607311112896
+    second: LemonPult_53
+  - first:
+      213: 6962036845192295271
+    second: LemonPult_54
+  - first:
+      213: 2566281683523127553
+    second: LemonPult_55
+  - first:
+      213: 7109663613404181747
+    second: LemonPult_56
+  - first:
+      213: -6027242398681745522
+    second: LemonPult_57
+  - first:
+      213: 8796929489014528157
+    second: LemonPult_58
+  - first:
+      213: 4036195901461587177
+    second: LemonPult_59
+  - first:
+      213: 5559988105142667881
+    second: LemonPult_60
+  - first:
+      213: -9007471869933280177
+    second: LemonPult_61
+  - first:
+      213: 6952212045326055602
+    second: LemonPult_62
+  - first:
+      213: -2908455098496184351
+    second: LemonPult_63
+  - first:
+      213: -3260145702682707137
+    second: LemonPult_64
+  - first:
+      213: -8390100014655486010
+    second: LemonPult_65
+  - first:
+      213: -6617543078336787021
+    second: LemonPult_66
+  - first:
+      213: 7784042544289778559
+    second: LemonPult_67
+  - first:
+      213: -1298703663112529146
+    second: LemonPult_68
+  - first:
+      213: -5123084840920220238
+    second: LemonPult_69
+  - first:
+      213: -6067193882745465136
+    second: LemonPult_70
+  - first:
+      213: -7095021583809758424
+    second: LemonPult_71
+  - first:
+      213: 4085992195541040848
+    second: LemonPult_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LemonPult_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 427
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41282797cc977850800000000000000
+      internalID: 6374736178614640972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 466
+        width: 195
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351160fc14e205500800000000000000
+      internalID: 382856828507525459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 357
+        width: 102
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd7cd451fc78740800000000000000
+      internalID: 5154315988955029361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 472
+        width: 177
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd54012e3c001f20800000000000000
+      internalID: 3391223980391423411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_4
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 546
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c229367210b1140800000000000000
+      internalID: 4691344705522379864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 630
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda537807dce71f80800000000000000
+      internalID: -8135773793517610275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 606
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0d764e0ceef7230800000000000000
+      internalID: 3638889536171790573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 364
+        width: 60
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67f0bb0b7994570800000000000000
+      internalID: 8451452961045837512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 486
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e00a3b1160f720d0800000000000000
+      internalID: -3447522689869545247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67830496876159be0800000000000000
+      internalID: -1471244996848895882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 350
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ebf5bc1d5c38490800000000000000
+      internalID: -7745129429296234957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 282
+        width: 144
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1e0c9684a988b20800000000000000
+      internalID: 3136926776266121668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 389
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55286be64e8ad00800000000000000
+      internalID: 984287682739983855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 277
+        width: 194
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03439ae71eb3e9170800000000000000
+      internalID: 8187047012284838960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_14
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 402
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89dcc5bea6e8350800000000000000
+      internalID: 6020867310947768575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 347
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d1ebaaa71ac7d0800000000000000
+      internalID: -2897477388463909543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 373
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c547bd9186dcf50800000000000000
+      internalID: 6903288264094145570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_17
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 374
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae3a2a2b204ebe0800000000000000
+      internalID: -1449030213850371485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 286
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2648f89a07bf60800000000000000
+      internalID: 8049914511064706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 310
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd2d4d17adfaa70800000000000000
+      internalID: 8840524775988321617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_20
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 321
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef887f93cffce44d0800000000000000
+      internalID: -3148350407274166018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_21
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 217
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fc2e9f359ed0f50800000000000000
+      internalID: 6849387155184340866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_22
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 327
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0568dc76a7de18580800000000000000
+      internalID: -8826512684686145968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 301
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7dbd51b51973a20800000000000000
+      internalID: 3042059893706840028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_24
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 284
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf381368a4261e0800000000000000
+      internalID: -2206118927241315447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_25
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 302
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80bf975261a2b80800000000000000
+      internalID: -8418892203199624981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 125
+        width: 125
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2181de5c57f1dbf0800000000000000
+      internalID: -301187723957272274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 265
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93768b952b500f30800000000000000
+      internalID: 4539728641470657436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 263
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef56961993dd030800000000000000
+      internalID: 3521033780374929125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_29
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 220
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c8c56053db0820800000000000000
+      internalID: 2885632328519436547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_30
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 260
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e1e689968ee830800000000000000
+      internalID: 4102364304532170630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_31
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 217
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316e5ab1ae9b0180800000000000000
+      internalID: -9148043800619359949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_32
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 267
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbbda95a16d3a30800000000000000
+      internalID: 4196617791674760023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 232
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a6084eb32793440800000000000000
+      internalID: 4916086069813864990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 247
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f319507a425c10800000000000000
+      internalID: 2040775427543528705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 239
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816916ed8214ce800800000000000000
+      internalID: 642960490592572952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f9c7ebcefa04cb0800000000000000
+      internalID: -4881708564726636658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_37
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 165
+        width: 151
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73c467ff105eca0800000000000000
+      internalID: -5988377932806211623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_38
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 236
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650e1e4f1715a710800000000000000
+      internalID: 1703793457251616110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 150
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13368d047a2bbfc10800000000000000
+      internalID: 2088459283633562417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 232
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d313eec00d24210800000000000000
+      internalID: 1315842795099995460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 227
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f792ee89e8ae870800000000000000
+      internalID: 8712933216583516052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_42
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 225
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3bd47c9e307cac0800000000000000
+      internalID: -3835092255076666434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_43
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c9948180f86f10800000000000000
+      internalID: 2263323251819790804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 221
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba9b3718c0f98260800000000000000
+      internalID: 7100471029700205243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 215
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d9b01983b17ef20800000000000000
+      internalID: 3451757569168350473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_46
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 220
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc20985303ab8b0800000000000000
+      internalID: -5135739418572567650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 102
+        width: 150
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9048be7a12b3d3b50800000000000000
+      internalID: 6574476046767981577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 158
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66461595514b3d160800000000000000
+      internalID: 7049175845550777446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 162
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5807d80651242a50800000000000000
+      internalID: 6495353215974312026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 107
+        width: 151
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313a1978ca3ef180800000000000000
+      internalID: -9079755166032711366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_51
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 141
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2dc02ab095381a0800000000000000
+      internalID: -6808500305155796260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 150
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8c7ef4b8b9a150800000000000000
+      internalID: 5884437475639463257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 30
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045fb5ed19fbb56a0800000000000000
+      internalID: -6459358607311112896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 51
+        width: 149
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633edecf9f1e9060800000000000000
+      internalID: 6962036845192295271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 106
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ccfb28934d9320800000000000000
+      internalID: 2566281683523127553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_56
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 107
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4f97543699aa260800000000000000
+      internalID: 7109663613404181747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_57
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 80
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87b66bd8feea5ca0800000000000000
+      internalID: -6027242398681745522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_58
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 75
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989eda13c8f41a70800000000000000
+      internalID: 8796929489014528157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_59
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 78
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46186a9c2730830800000000000000
+      internalID: 4036195901461587177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 51
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0d6a39bb092d40800000000000000
+      internalID: 5559988105142667881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_61
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 49
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44ad44de080ff280800000000000000
+      internalID: -9007471869933280177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_62
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 85
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f9d455083b7060800000000000000
+      internalID: 6952212045326055602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_63
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 52
+        width: 125
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef06f06f7713a7d0800000000000000
+      internalID: -2908455098496184351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bb493a1c2a1c2d0800000000000000
+      internalID: -3260145702682707137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c5744d70609b80800000000000000
+      internalID: -8390100014655486010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 59
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd04e9a1a3c924a0800000000000000
+      internalID: -6617543078336787021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_67
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 25
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b8be0d379760c60800000000000000
+      internalID: 7784042544289778559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_68
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 31
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bdda336e31afde0800000000000000
+      internalID: -1298703663112529146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_69
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf2cefa7527e8b0800000000000000
+      internalID: -5123084840920220238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_70
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6988b1f4ffccba0800000000000000
+      internalID: -6067193882745465136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_71
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 23
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b3a47e57b698d90800000000000000
+      internalID: -7095021583809758424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LemonPult_72
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defd3ad04c54b830800000000000000
+      internalID: 4085992195541040848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
